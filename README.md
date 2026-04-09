@@ -1,0 +1,1 @@
+# Python-Qt-Personel-Yonetim-Sistemi
